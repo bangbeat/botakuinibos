@@ -53,7 +53,7 @@ client.on('message', async (message) => {
 
   //config.time in seconds
 }});
-client.login(process.env.token);
+client.login(process.env.BOT_TOKEN);
 
 function TimeTooLow(){
   if(conf.StopIfTimeIsLessYhan5Seconds == true){
