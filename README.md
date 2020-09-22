@@ -1,0 +1,2 @@
+# botakuinibos
+Cuma bot biasa
